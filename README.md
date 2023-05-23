@@ -1,1 +1,1 @@
-# FerstRemoteRepo
+Lista zakupów
